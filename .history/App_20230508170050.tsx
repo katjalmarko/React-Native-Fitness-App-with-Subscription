@@ -12,7 +12,7 @@ export default function App() {
       <Stack.Navigator>
         <Stack.Screen 
         options={{
-          headerShown: false
+          head
         }}
         name="Home" component={HomeScreen} />
       </Stack.Navigator>

@@ -1,0 +1,11 @@
+import { StatusBar } from 'expo-status-bar';
+import { SafeAreaView, Text } from 'react-native';
+
+export default function App() {
+  return (
+    <SafeAreaView className="p-10 text-red-500">
+      <Text>Open up App.tsx to start working on your apsp!</Text>
+      <StatusBar style="auto" />
+    </SafeAreaView>
+  );
+}
