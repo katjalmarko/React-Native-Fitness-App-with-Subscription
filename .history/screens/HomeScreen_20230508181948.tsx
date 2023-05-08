@@ -18,7 +18,7 @@ const HomeScreen = () => {
           className='w-full h-64'
         />
 
-        <View className='mx-5'>
+        <View>
           <View className="flex-row justify-between space-x-2">
             <ActionRow 
               title="Track Workout"
